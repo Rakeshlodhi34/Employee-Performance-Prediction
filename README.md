@@ -62,6 +62,9 @@ We propose a web-based ML system that:
 ## 🧑‍💼 Contributors
 
 - Rakesh Lodhi
+- Kritika Tripathi
+- Chandan Singh
+- Tahir Agwan
 - Team ID: 593386
 - Guided by: Jayaprakash CH (SmartInternz)
 
