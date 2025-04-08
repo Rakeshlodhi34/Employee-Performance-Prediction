@@ -1,3 +1,36 @@
+# Employee Performance Prediction
+
+This project is a part of the AI & ML Virtual Externship Program offered by **SmartInternz** in collaboration with **Google Developers**. The goal of this project is to build a machine learning system to accurately predict employee performance based on historical data, enabling better decision-making in HR practices.
+
+## 🔍 Problem Statement
+
+Traditional employee performance reviews can be biased and inconsistent. Our solution aims to use machine learning (ML) to objectively predict employee performance using structured and unstructured data, helping organizations identify top talent and provide targeted growth opportunities.
+
+## 💡 Proposed Solution
+
+We propose a web-based ML system that:
+- Predicts employee performance with high accuracy.
+- Combines traditional ML techniques and NLP for deeper insights.
+- Offers dashboards for HR, Managers, and Employees to interact with prediction data.
+
+## 🧠 Key Features
+
+- Empathize and Discover: Understand stakeholder needs.
+- Ideation and Brainstorming: Identify scalable, impactful ideas.
+- Solution Architecture: Full-stack design of data flow and interaction.
+- ML Modeling: Trained using Random Forest, Logistic Regression, XGBoost, etc.
+- Web App Deployment: Flask-based user interface for real-time predictions.
+
+## 📊 Tech Stack
+
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: Python (Flask)
+- **ML Libraries**: Scikit-learn, XGBoost, Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Google Colab, GitHub, VS Code
+
+## 📁 Project Structure
+
 
 ## 🔄 Workflow Summary
 
